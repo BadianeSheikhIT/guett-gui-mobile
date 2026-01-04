@@ -218,7 +218,7 @@ class Connexion extends StatelessWidget {
                             ),
                             SizedBox(height: 8),
                             Text(
-                              "Créez un compte pour accéder à la plateforme.",
+                              "Dans l'écosystème Guett Gui, chaque animal est un patient avec un Dossier Médical Numérique.",
                               style: TextStyle(
                                 fontSize: 14,
                                 color: Colors.black54,
@@ -327,7 +327,7 @@ class Connexion extends StatelessWidget {
                             ),
                             SizedBox(height: 8),
                             Text(
-                              "Connectez-vous à votre compte existant.",
+                              "La collaboration efficace sur Guett Gui n'est pas qu'une mise en relation, c'est une orchestration technique.",
                               style: TextStyle(
                                 fontSize  : 14,
                                 color: Colors.black54,
